@@ -1,1 +1,0 @@
-echo "G.231.19.0086 - Najib Daim Maghfur">README
